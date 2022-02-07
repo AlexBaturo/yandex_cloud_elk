@@ -1,0 +1,4 @@
+- name: write text to a file
+  my_own_module:
+    path: "test.txt"
+    content: "test content"
